@@ -1,5 +1,5 @@
 ---
-title: 【RubyOnRails】門口阿桑Routes
+title: 【Ruby】小白學Rails：門口阿桑Routes
 tags: 文章發布,ROR
 description: RubyOnRails裡的MVC架構是甚麼
 date: 2022/04/28
@@ -12,7 +12,7 @@ date: 2022/04/28
 <br/>
 >前情提要：此為初入新手村的超級菜鳥，探索Ruby on Rails的世界，僅供參考~ 敬請指教修正:bow::bow::bow:
 
-## 【Ruby】小白學Rails：門口阿桑Routes你聽過嗎
+## 門口阿桑Routes你聽過嗎
 
 Route 是整個網站對外公開的網站路徑對照表，當使用者連上你的網站的時候，Rails 會解析使用者所輸入的網址及參數，再根據解析的結果，去找到該負責處理的單位（哪個 Controller 跟 Action）。
 
