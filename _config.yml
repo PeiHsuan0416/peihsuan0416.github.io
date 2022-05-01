@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "zh-TW"
 title: "PeiHsuan Blog"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -58,19 +59,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Sharon沛萱"
+  avatar : "/assets/images/IMG_7073.png"
+  bio    : "初入程式語言新手村的菜鳥小白，不務正業的景觀設計人，前展場設計業務+工務。轉職探索程式的大海每天都一把鼻涕一把眼淚，覺得自己好笨仍覺得有趣。"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Medium"
+      icon: "fab fa-brands fa-medium"
+      url: "https://medium.com/@peihsuan0416"
+    - label: "Hackmd"
+      icon: "fas fa-fw fa-memo"
+      url: "https://hackmd.io/@peihsuan1046"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/PeiHsuan0416"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
